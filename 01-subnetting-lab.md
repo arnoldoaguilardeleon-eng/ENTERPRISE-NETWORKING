@@ -2,7 +2,7 @@
 ## Empresa: TechNova
 Red base: 192.168.10.0/24
 
-## Departamentos
+## Departamentos 
 
 | Departamento | Hosts necesarios | Prefijo | Hosts disponibles | Red asignada    |
 |--------------|------------------|---------|-------------------|-----------------|
